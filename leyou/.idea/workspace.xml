@@ -3,21 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="0c0f9b71-cf42-4ed6-8ea3-45692b860e28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../leyou-portal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-portal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou-portal/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-portal/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-interface/src/main/java/com/leyou/item/api/GoodsApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-interface/src/main/java/com/leyou/item/api/GoodsApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-interface/src/main/java/com/leyou/item/api/SpecificationApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-interface/src/main/java/com/leyou/item/api/SpecificationApi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/GoodsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/SpecificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/SpecificationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/GoodsService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/SpecificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/SpecificationService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/controller/GoodsController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/controller/SpecificationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/controller/SpecificationController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/GoodsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/GoodsService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/SpecificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/SpecificationService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/java/com/leyou/goods/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/templates/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou-goods-web/target/classes/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/target/classes/templates/item.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,6 +282,7 @@
         </serviceView>
       </list>
     </option>
+    <option name="showServicesTree" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -323,7 +313,7 @@
       <workItem from="1587888288113" duration="12716000" />
       <workItem from="1587951040096" duration="4807000" />
       <workItem from="1587977296706" duration="4602000" />
-      <workItem from="1588033037798" duration="5497000" />
+      <workItem from="1588033037798" duration="10854000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1587963293250</created>
@@ -402,7 +392,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587987109096</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="update">
+      <created>1588044399871</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1588044399871</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -429,46 +426,46 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1587986341862" />
-    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1587987108162">
+    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1588044398598">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587987108162" />
+    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1588044398598" />
     <state x="421" y="61" key="FileChooserDialogImpl" timestamp="1588033066295">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="61" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588033066295" />
-    <state width="845" height="223" key="GridCell.Tab.0.bottom" timestamp="1588044206138">
+    <state width="845" height="223" key="GridCell.Tab.0.bottom" timestamp="1588054301590">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588044206138" />
-    <state width="845" height="223" key="GridCell.Tab.0.center" timestamp="1588044206138">
+    <state width="845" height="223" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588054301590" />
+    <state width="845" height="223" key="GridCell.Tab.0.center" timestamp="1588054301590">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588044206138" />
-    <state width="845" height="223" key="GridCell.Tab.0.left" timestamp="1588044206138">
+    <state width="845" height="223" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588054301590" />
+    <state width="845" height="223" key="GridCell.Tab.0.left" timestamp="1588054301590">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588044206138" />
-    <state width="845" height="223" key="GridCell.Tab.0.right" timestamp="1588044206138">
+    <state width="845" height="223" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588054301590" />
+    <state width="845" height="223" key="GridCell.Tab.0.right" timestamp="1588054301590">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588044206138" />
-    <state width="845" height="223" key="GridCell.Tab.1.bottom" timestamp="1588044206138">
+    <state width="845" height="223" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588054301590" />
+    <state width="845" height="223" key="GridCell.Tab.1.bottom" timestamp="1588054301591">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588044206138" />
-    <state width="845" height="223" key="GridCell.Tab.1.center" timestamp="1588044206138">
+    <state width="845" height="223" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588054301591" />
+    <state width="845" height="223" key="GridCell.Tab.1.center" timestamp="1588054301591">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588044206138" />
-    <state width="845" height="223" key="GridCell.Tab.1.left" timestamp="1588044206138">
+    <state width="845" height="223" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588054301591" />
+    <state width="845" height="223" key="GridCell.Tab.1.left" timestamp="1588054301591">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588044206138" />
-    <state width="845" height="223" key="GridCell.Tab.1.right" timestamp="1588044206138">
+    <state width="845" height="223" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588054301591" />
+    <state width="845" height="223" key="GridCell.Tab.1.right" timestamp="1588054301591">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588044206138" />
+    <state width="845" height="223" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588054301591" />
     <state width="845" height="282" key="GridCell.Tab.2.bottom" timestamp="1587800545824">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -493,10 +490,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1587774229822" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1587987128761">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1588044456354">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1587987128761" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1588044456354" />
     <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1588033037914">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -509,10 +506,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="94" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1587819905627" />
-    <state x="356" y="132" key="git4idea.merge.GitPullDialog" timestamp="1588044366880">
+    <state x="356" y="132" key="git4idea.merge.GitPullDialog" timestamp="1588054333816">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="356" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1588044366880" />
+    <state x="356" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1588054333816" />
     <state x="56" y="57" key="new project wizard" timestamp="1588033850758">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
