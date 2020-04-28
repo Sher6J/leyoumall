@@ -3,10 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="ba0faa11-56ff-4b66-aac8-49915c304969" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leyou/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou/leyou-goods-web/src/main/java/com/leyou/goods/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-goods-web/src/main/java/com/leyou/goods/controller/GoodsController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou/leyou-goods-web/src/main/resources/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-goods-web/src/main/resources/templates/item.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou/leyou-goods-web/target/classes/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-goods-web/target/classes/templates/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-search/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-search/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-search/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-search/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-upload/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-upload/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-upload/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-upload/target/classes/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,8 @@
       <workItem from="1587887733489" duration="5977000" />
       <workItem from="1587951086919" duration="6342000" />
       <workItem from="1587977254028" duration="4423000" />
-      <workItem from="1588033082771" duration="2121000" />
+      <workItem from="1588033082771" duration="2126000" />
+      <workItem from="1588072765721" duration="1566000" />
     </task>
     <servers />
   </component>
