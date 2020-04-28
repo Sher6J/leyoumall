@@ -3,11 +3,21 @@
   <component name="ChangeListManager">
     <list default="true" id="ba0faa11-56ff-4b66-aac8-49915c304969" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/common.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/common.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/search.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../leyou/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou/leyou-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-search/src/main/java/com/leyou/search/pojo/SearchRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../leyou/leyou-search/src/main/java/com/leyou/search/service/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-search/src/main/java/com/leyou/search/service/SearchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-interface/src/main/java/com/leyou/item/api/GoodsApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-interface/src/main/java/com/leyou/item/api/GoodsApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-interface/src/main/java/com/leyou/item/api/SpecificationApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-interface/src/main/java/com/leyou/item/api/SpecificationApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/SpecificationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/src/main/java/com/leyou/item/controller/SpecificationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/GoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/SpecificationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/src/main/java/com/leyou/item/service/SpecificationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/target/classes/com/leyou/item/controller/GoodsController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/target/classes/com/leyou/item/controller/GoodsController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/target/classes/com/leyou/item/controller/SpecificationController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/target/classes/com/leyou/item/controller/SpecificationController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/GoodsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/GoodsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/SpecificationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-item/leyou-item-service/target/classes/com/leyou/item/service/SpecificationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +47,9 @@
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
   </component>
   <component name="ProjectId" id="1b2D62ufo2ZPJ9XsLMIvVxrUOmH" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -48,7 +60,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leyou-manage-web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
   </component>
   <component name="RecentsManager">
@@ -70,7 +82,8 @@
       <workItem from="1587874654574" duration="602000" />
       <workItem from="1587887733489" duration="5977000" />
       <workItem from="1587951086919" duration="6342000" />
-      <workItem from="1587977254028" duration="4314000" />
+      <workItem from="1587977254028" duration="4423000" />
+      <workItem from="1588033082771" duration="2121000" />
     </task>
     <servers />
   </component>
