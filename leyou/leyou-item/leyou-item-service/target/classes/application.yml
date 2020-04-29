@@ -7,6 +7,13 @@ spring:
     url: jdbc:mysql:///leyou
     username: root
     password: root
+  rabbitmq:
+    host: 192.168.31.142
+    virtual-host: /leyou
+    username: leyou
+    password: leyou
+    template:
+      exchange: LEYOU.ITEM.EXCHANGE
 eureka:
   client:
     service-url:

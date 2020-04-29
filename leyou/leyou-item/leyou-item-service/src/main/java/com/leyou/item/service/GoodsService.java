@@ -7,6 +7,8 @@ import com.leyou.item.bo.SpuBo;
 import com.leyou.item.mapper.*;
 import com.leyou.item.pojo.*;
 import org.apache.commons.lang.StringUtils;
+import org.springframework.amqp.AmqpException;
+import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
@@ -43,6 +45,9 @@ public class GoodsService {
 
     @Autowired
     private StockMapper stockMapper;
+
+    @Autowired
+    private AmqpTemplate amqpTemplate;  //注入消息队列的模板
 
     /**
      * 根据条件分页查询Spu
@@ -113,6 +118,21 @@ public class GoodsService {
         this.spuDetailMapper.insertSelective(spuDetail);
 
         saveStuAndStock(spuBo);
+
+        sendMsg("insert", spuBo.getId());
+    }
+
+    /**
+     * 发送消息队列的方法
+     * @param type  发送的具体消息topic
+     * @param id    spu的id
+     */
+    private void sendMsg(String type, Long id) {
+        try {
+            this.amqpTemplate.convertAndSend("item." + type, id);
+        } catch (AmqpException e) {
+            e.printStackTrace();
+        }
     }
 
     private void saveStuAndStock(SpuBo spuBo) {
@@ -191,6 +211,8 @@ public class GoodsService {
         spuBo.setSaleable(null);
         this.spuMapper.updateByPrimaryKeySelective(spuBo);
         this.spuDetailMapper.updateByPrimaryKeySelective(spuBo.getSpuDetail());
+
+        sendMsg("update", spuBo.getId());
     }
 
     public Spu querySpuById(Long id) {
