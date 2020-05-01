@@ -93,4 +93,31 @@ public class UserService {
         this.userMapper.insertSelective(user);
 
     }
+
+    /**
+     * 查询用户
+     * @param username
+     * @param password
+     * @return
+     */
+    public User queryUser(String username, String password) {
+        User record = new User();
+        record.setUsername(username);
+        User user = this.userMapper.selectOne(record);
+
+        //判断user是否为空
+        if (user == null) {
+            return null;
+        }
+
+        //获取盐对用户输入的密码加盐加密
+        password = CodecUtils.md5Hex(password, user.getSalt());
+
+        //和数据库中的密码比较
+        if (StringUtils.equals(password, user.getPassword())) {
+            return user;
+        }
+
+        return null;
+    }
 }

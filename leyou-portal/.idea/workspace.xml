@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba0faa11-56ff-4b66-aac8-49915c304969" name="Default Changelist" comment="" />
+    <list default="true" id="ba0faa11-56ff-4b66-aac8-49915c304969" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-interface/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-interface/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-interface/src/main/java/com/leyou/user/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-interface/src/main/java/com/leyou/user/pojo/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-interface/target/classes/com/leyou/user/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-interface/target/classes/com/leyou/user/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-service/src/main/java/com/leyou/user/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-service/src/main/java/com/leyou/user/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-service/src/main/java/com/leyou/user/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-service/src/main/java/com/leyou/user/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-service/target/classes/com/leyou/user/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-service/target/classes/com/leyou/user/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-service/target/classes/com/leyou/user/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou/leyou-user/leyou-user-service/target/classes/com/leyou/user/service/UserService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,6 +81,7 @@
       <workItem from="1588072765721" duration="1838000" />
       <workItem from="1588162761629" duration="1807000" />
       <workItem from="1588235220684" duration="649000" />
+      <workItem from="1588300497888" duration="672000" />
     </task>
     <servers />
   </component>
