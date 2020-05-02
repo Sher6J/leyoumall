@@ -17,6 +17,7 @@
         <module name="leyou-user-service" />
         <module name="leyou-common" />
         <module name="leyou-registry" />
+        <module name="leyou-cart" />
         <module name="leyou-item-interface" />
         <module name="leyou-user-interface" />
         <module name="leyou-sms" />
@@ -33,6 +34,7 @@
       <module name="leyou-auth" options="-parameters" />
       <module name="leyou-auth-common" options="-parameters" />
       <module name="leyou-auth-service" options="-parameters" />
+      <module name="leyou-cart" options="-parameters" />
       <module name="leyou-common" options="-parameters" />
       <module name="leyou-gateway" options="-parameters" />
       <module name="leyou-goods-web" options="-parameters" />

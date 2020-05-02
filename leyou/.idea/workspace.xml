@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="0c0f9b71-cf42-4ed6-8ea3-45692b860e28" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../leyou-portal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../leyou-portal/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/controller/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-auth/leyou-auth-service/src/main/java/com/leyou/auth/controller/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-auth/leyou-auth-service/target/classes/com/leyou/auth/controller/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-auth/leyou-auth-service/target/classes/com/leyou/auth/controller/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leyou-gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-gateway/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leyou-gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-gateway/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leyou-gateway/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-gateway/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/templates/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/leyou-goods-web/src/main/resources/templates/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,8 +294,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.LeyouGatewayApplication" />
         <item itemvalue="Spring Boot.LeyouRegistryApplication" />
+        <item itemvalue="Spring Boot.LeyouGatewayApplication" />
         <item itemvalue="JUnit.JwtTest.testParseToken" />
         <item itemvalue="JUnit.JwtTest.testGenerateToken" />
         <item itemvalue="JUnit.JwtTest.testRsa" />
@@ -314,7 +315,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -368,7 +369,8 @@
       <workItem from="1588165397409" duration="4038000" />
       <workItem from="1588235203391" duration="4625000" />
       <workItem from="1588294243877" duration="6048000" />
-      <workItem from="1588322227528" duration="8374000" />
+      <workItem from="1588322227528" duration="8636000" />
+      <workItem from="1588384146614" duration="4094000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1587963293250</created>
@@ -517,7 +519,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588328177071</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="update">
+      <created>1588338418538</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1588338418538</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,50 +553,50 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1588337638416" />
-    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1588328175904">
+    <state x="248" y="0" key="CommitChangelistDialog2" timestamp="1588338417671">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1588328175904" />
+    <state x="248" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1588338417671" />
     <state x="121" y="51" key="DiffContextDialog" timestamp="1588170861557">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="121" y="51" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1588170861557" />
-    <state x="421" y="61" key="FileChooserDialogImpl" timestamp="1588326098384">
+    <state x="421" y="61" key="FileChooserDialogImpl" timestamp="1588385396783">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="61" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588326098384" />
-    <state width="845" height="223" key="GridCell.Tab.0.bottom" timestamp="1588338386516">
+    <state x="421" y="61" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1588385396783" />
+    <state width="845" height="223" key="GridCell.Tab.0.bottom" timestamp="1588391574241">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588338386516" />
-    <state width="845" height="223" key="GridCell.Tab.0.center" timestamp="1588338386516">
+    <state width="845" height="223" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588391574241" />
+    <state width="845" height="223" key="GridCell.Tab.0.center" timestamp="1588391574241">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588338386516" />
-    <state width="845" height="223" key="GridCell.Tab.0.left" timestamp="1588338386516">
+    <state width="845" height="223" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588391574241" />
+    <state width="845" height="223" key="GridCell.Tab.0.left" timestamp="1588391574241">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588338386516" />
-    <state width="845" height="223" key="GridCell.Tab.0.right" timestamp="1588338386516">
+    <state width="845" height="223" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588391574241" />
+    <state width="845" height="223" key="GridCell.Tab.0.right" timestamp="1588391574241">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588338386516" />
-    <state width="845" height="223" key="GridCell.Tab.1.bottom" timestamp="1588338386517">
+    <state width="845" height="223" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588391574241" />
+    <state width="845" height="223" key="GridCell.Tab.1.bottom" timestamp="1588391574241">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588338386517" />
-    <state width="845" height="223" key="GridCell.Tab.1.center" timestamp="1588338386516">
+    <state width="845" height="223" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588391574241" />
+    <state width="845" height="223" key="GridCell.Tab.1.center" timestamp="1588391574241">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588338386516" />
-    <state width="845" height="223" key="GridCell.Tab.1.left" timestamp="1588338386516">
+    <state width="845" height="223" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1588391574241" />
+    <state width="845" height="223" key="GridCell.Tab.1.left" timestamp="1588391574241">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588338386516" />
-    <state width="845" height="223" key="GridCell.Tab.1.right" timestamp="1588338386516">
+    <state width="845" height="223" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1588391574241" />
+    <state width="845" height="223" key="GridCell.Tab.1.right" timestamp="1588391574241">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="845" height="223" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588338386516" />
+    <state width="845" height="223" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1588391574241" />
     <state width="845" height="282" key="GridCell.Tab.2.bottom" timestamp="1587800545824">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -612,14 +621,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1588169712152" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1588328222357">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1588338433352">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1588328222357" />
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1588322236531">
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1588338433352" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1588415571230">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588322236531" />
+    <state x="325" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588415571230" />
     <state x="437" y="258" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587963456971">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -628,14 +637,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="94" key="extract.method.dialog/0.0.1280.680@0.0.1280.680" timestamp="1588161227728" />
-    <state x="356" y="132" key="git4idea.merge.GitPullDialog" timestamp="1588338396206">
+    <state x="356" y="132" key="git4idea.merge.GitPullDialog" timestamp="1588415596519">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="356" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1588338396206" />
-    <state x="56" y="0" key="new project wizard" timestamp="1588322501659">
+    <state x="356" y="132" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1588415596519" />
+    <state x="56" y="0" key="new project wizard" timestamp="1588384458124">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="56" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1588322501659" />
+    <state x="56" y="0" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1588384458124" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1588324025081">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
